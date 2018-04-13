@@ -6,9 +6,11 @@ I created Racing Maze using Python 3.6.3 with Pygame. Written in 2018.
 
 **Controls:**
 
-For the **Menu,** the user can select any stage or exit the game using the mouse. If the user wishes to use the keyboard, the user can use the up/down or right/left arrow keys to pick which option the user wishes. After selecting the desired option, pressing enter will execute that option.
+For **Menu:** 
 
-For the **Gameplay:**
+The user can select any stage or exit the game using the mouse. If the user wishes to use the keyboard, the user can use the up/down or right/left arrow keys to pick which option the user wishes. After selecting the desired option, pressing enter will execute that option.
+
+For **Gameplay:**
 
 **UP ARROW:** ACCELERATION/ DRIVE FORWARD
 
