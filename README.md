@@ -24,3 +24,4 @@ For **Gameplay:**
 
 **"ESCAPE" KEY:** EXIT GAME
 
+**DESIGN-TOOL:** PAINT S (MAC OS)
