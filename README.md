@@ -1,5 +1,9 @@
-# Simple-Games
+# Racing Maze
 
-I created simple games using Python 3.6.3 with Pygame. Written in 2018.
+I created Racing Maze using Python 3.6.3 with Pygame. Written in 2018.
 
-**Super Mario Dodge** is the first game I created using Pygame. This is simply a game where the user has to control the Mario Cart from hitting the blocks. The user has the ability to move up, down, right or left in order to successfully dodge the blocks. I have set up the blocks to become wider and faster over time, in order to make the difficulty harder. 
+**Racing Maze** is the first game I created using Pygame. This was my first project I created outside of school and work. It is a 2D racing game which consists of obstacles such as a PacMan character "Blinky" and brick walls. The main objective of this game is to make the car hit the trophy, which will complete the stage.
+
+**Controls**
+
+
