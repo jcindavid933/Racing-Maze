@@ -11,9 +11,14 @@ For the **Menu,** the user can select any stage or exit the game using the mouse
 For the **Gameplay:**
 
 **UP ARROW:** ACCELERATION/ DRIVE FORWARD
+
 **DOWN ARROW:** DEACCELERATION/ DRIVE BACKWARDS
+
 **RIGHT ARROW:** DRIFT RIGHT
+
 **LEFT ARROW:** DRIFT LEFT
+
 **"P" KEY:** PAUSE GAME
+
 **"ESCAPE" KEY:** EXIT GAME
 
