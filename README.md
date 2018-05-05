@@ -25,3 +25,7 @@ II. For **Gameplay:**
 **"ESCAPE" KEY:** EXIT GAME
 
 **DESIGN-TOOL:** PAINT S (MAC OS)
+
+**SCREENSHOT:** 
+![alt text](https://github.com/jcindavid933/Racing-Maze/blob/master/Images/Screen%20Shot%202018-05-04%20at%209.47.16%20PM.png)
+
